@@ -2,11 +2,11 @@
     {
       "id": "sun-vegan-fps50",
       "name": "SUN VEGAN Protección Solar FPS 50+",
-      "image": "/src/images/productTienda.png",
+      "image": "/image/productTienda.png",
       "secondaryImages": [
-        "/src/images/image2.webp",
-        "/src/images/image3.webp",
-        "/src/images/image4.webp"
+        "/image/image2.webp",
+        "/image/image3.webp",
+        "/image/image4.webp"
       ],
       "description": "Bloqueador solar 100% vegano con ingredientes naturales y empaque sostenible.",
       "longDescription": "SUN VEGAN FPS 50+ ofrece una barrera efectiva contra los rayos UVA y UVB, mientras nutre la piel con extractos naturales.",
