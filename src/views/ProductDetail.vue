@@ -233,7 +233,7 @@
 
     onMounted(async () => {
         try {
-            const response = await fetch('/src/data/products.json');
+            const response = await fetch('/data/products.json');
             const products = await response.json();
             productData.value = products.find(product => product.id === route.params.id) || null;
             } catch (error) {
